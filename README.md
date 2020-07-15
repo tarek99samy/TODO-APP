@@ -36,7 +36,7 @@
     npm run dev
 ```
 
-#### - Open your browser and follow the `http://localhost:1234`
+#### - Open your browser and follow the link `http://localhost:1234`
 
 ---
 
