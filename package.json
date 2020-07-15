@@ -1,7 +1,7 @@
 {
   "name": "todo_app",
   "version": "1.0.0",
-  "homepage": ".",
+  "homepage": "/",
   "description": "simple todo app",
   "main": "index.html",
   "scripts": {
