@@ -42,10 +42,8 @@
 
 ### Future work
 
-#### - Use cloud database to save tasks like `mongodb`
+#### - ~~Edit tasks~~
 
-#### - Login/SignUp
+#### - ~~Multiple themes for the application~~
 
-#### - Edit tasks feature
-
-#### - Multiple themes for the application
+#### - Use cloud database to save tasks like `mongodb atlas`
