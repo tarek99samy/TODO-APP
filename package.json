@@ -1,6 +1,7 @@
 {
   "name": "todo_app",
   "version": "1.0.0",
+  "homepage": "/ReactJS-TODO-APP/",
   "description": "simple todo app",
   "main": "index.js",
   "scripts": {
