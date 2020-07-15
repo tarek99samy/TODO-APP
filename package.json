@@ -1,7 +1,7 @@
 {
   "name": "todo_app",
   "version": "1.0.0",
-  "homepage": "https://tarek99samy.github.io/ReactJS-TODO-APP/",
+  "homepage": ".",
   "description": "simple todo app",
   "main": "index.html",
   "scripts": {
