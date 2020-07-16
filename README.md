@@ -46,4 +46,6 @@
 
 #### - ~~Multiple themes for the application~~
 
+#### - ~~Deploy the project on any free service like _netlify, heroku, github-pages_~~
+
 #### - Use cloud database to save tasks like `mongodb atlas`
