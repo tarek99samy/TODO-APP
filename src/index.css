@@ -55,7 +55,7 @@ ul {
   overflow-y: unset;
   min-height: 100px;
   flex-wrap: wrap;
-  align-content: start;
+  align-content: flex-start;
 }
 
 .Item,
