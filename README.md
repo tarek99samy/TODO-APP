@@ -4,9 +4,11 @@
 
 ### Features
 
-#### - Responsive design
+#### - First-Mobile Responsive
 
-#### - Can add/remove tasks
+#### - Can add/edit/remove tasks
+
+#### - light/dark themes
 
 ---
 
@@ -22,7 +24,7 @@
 
 ---
 
-### How to run
+### How to run locally
 
 #### - Clone the repo then type in terminal
 
