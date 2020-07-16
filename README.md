@@ -16,8 +16,6 @@
 
 #### - ReactJS
 
-#### - parcel
-
 #### - HTML5
 
 #### - CSS
@@ -35,10 +33,10 @@
 #### - Then type
 
 ```code
-    npm run dev
+    npm run start
 ```
 
-#### - Open your browser and follow the link `http://localhost:1234`
+#### - the link `http://localhost:3000` will open automatically in your default browser
 
 ---
 
